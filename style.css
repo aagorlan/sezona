@@ -40,3 +40,4 @@ footer a { color: var(--muted); }
 .faq summary { cursor: pointer; font-weight: 600; }
 .faq details p { margin: 10px 0 0; color: var(--muted); }
 .note a { color: var(--green); }
+.steps .hint { display: inline-block; margin-top: 6px; font-size: 14px; color: var(--muted); }
