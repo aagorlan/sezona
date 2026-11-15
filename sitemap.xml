@@ -2,16 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://sezonaapp.com/</loc>
-    <lastmod>2026-11-14</lastmod>
+    <lastmod>2026-11-15</lastmod>
     <xhtml:link rel="alternate" hreflang="ru" href="https://sezonaapp.com/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://sezonaapp.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sezonaapp.com/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sezonaapp.com/fr/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sezonaapp.com/es/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://sezonaapp.com/en/"/>
   </url>
   <url>
     <loc>https://sezonaapp.com/en/</loc>
-    <lastmod>2026-11-14</lastmod>
+    <lastmod>2026-11-15</lastmod>
     <xhtml:link rel="alternate" hreflang="ru" href="https://sezonaapp.com/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://sezonaapp.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sezonaapp.com/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sezonaapp.com/fr/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sezonaapp.com/es/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sezonaapp.com/en/"/>
+  </url>
+  <url>
+    <loc>https://sezonaapp.com/de/</loc>
+    <lastmod>2026-11-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sezonaapp.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sezonaapp.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sezonaapp.com/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sezonaapp.com/fr/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sezonaapp.com/es/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sezonaapp.com/en/"/>
+  </url>
+  <url>
+    <loc>https://sezonaapp.com/fr/</loc>
+    <lastmod>2026-11-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sezonaapp.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sezonaapp.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sezonaapp.com/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sezonaapp.com/fr/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sezonaapp.com/es/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sezonaapp.com/en/"/>
+  </url>
+  <url>
+    <loc>https://sezonaapp.com/es/</loc>
+    <lastmod>2026-11-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sezonaapp.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sezonaapp.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sezonaapp.com/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sezonaapp.com/fr/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sezonaapp.com/es/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://sezonaapp.com/en/"/>
   </url>
 </urlset>
